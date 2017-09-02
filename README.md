@@ -1,4 +1,4 @@
-### Tutorials
+# Tutorials
 ## Core java:
 -  [Core Java tutorial](https://www.java2blog.com/core-java-tutorial-for-beginners-experienced/)
 ## Spring:
@@ -12,7 +12,7 @@
 ## Struts 2 tutorial
 -  [Hibernate tutorial](https://www.java2blog.com/welcome-to-strut2/)
 
-### Interview questions
+# Interview questions
 ## Core java:
 -  [Core Java Interview questions](https://www.java2blog.com/core-java-interview-questions-and-answers/)
 -  [Java COllections Interview questions](https://www.java2blog.com/java-collections-interview-questions/)

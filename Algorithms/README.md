@@ -29,3 +29,6 @@ This github repository is for tutorials on Binary tree,graphs, Stack,queue etc. 
 - [Depth First Search in java](https://www.java2blog.com/depth-first-search-in-java/)
 - [Breadth first search in java](https://www.java2blog.com/breadth-first-search-in-java/)
 - [Dijkstra algorithm in java](https://www.java2blog.com/dijkstra-java/)
+
+## Binary search
+- [Binary search in java](https://www.java2blog.com/binary-search-java)

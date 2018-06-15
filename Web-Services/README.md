@@ -1,5 +1,5 @@
 ## Relevant articles on Web Services:
--  [Introduction to web services](https://java2blog.com/web-service-tutorial/)
+-  [webservices in java](https://java2blog.com/web-service-tutorial/)
 -  [Web services interview questions](https://www.java2blog.com/web-services-interview-questions/)
 -  [SOAP web service introduction](https://java2blog.com/soap-web-service-tutorial/)
 -  [RESTful web service introduction](https://java2blog.com/restful-web-service-tutorial/)
